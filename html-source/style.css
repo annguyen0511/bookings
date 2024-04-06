@@ -1,0 +1,9 @@
+.my-footer{
+    background-color: rgb(38, 57, 91);
+    color: white;
+    padding: 30px;
+    margin-top: 30px;
+}
+.room-image{
+    max-width: 50%;
+}
