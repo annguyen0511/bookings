@@ -7,3 +7,8 @@
 .room-image{
     max-width: 50%;
 }
+
+    /* override styles here */
+.notie-container {
+  box-shadow: none;
+}
